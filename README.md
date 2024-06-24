@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwas0408" alt="vishwas0408" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **Python, SQL, Excel, Powerbi, Tableau**
 
